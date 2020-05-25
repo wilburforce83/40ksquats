@@ -1,6 +1,8 @@
 # Squats / Space Dwarf Model Collection
 
-A curated repository of all Squat STL file I have found / modelled / modified for my own Squat army.
+A curated repository of all Squat STL files I have found / modelled / modified for my own Squat army.
+
+Please, also see my collection of 40k weapons I have curated too [here](https://github.com/wilburforce83/40kweapons)
 
 ## Details
 
@@ -25,3 +27,15 @@ I can't find a full set of rules anywhere, and don't have time, but I have just 
 ### Grimdark Future
 
 I have added the most recent GF rules here.
+
+## Credits
+
+I have curated all of this from Thingiverse or modelled / kitbashed myself. Credits are below:
+
+[MrOrangeJumper](https://www.thingiverse.com/MrOrangeJumper)
+[Darguth](https://www.thingiverse.com/Darguth)
+[taaz](https://www.thingiverse.com/taaz)
+[will4742](https://www.thingiverse.com/will4742)
+[MKojiro](https://www.thingiverse.com/MKojiro)
+And Me
+
